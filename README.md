@@ -11,7 +11,7 @@ O histórico é mantido em uma tabela, cujo formato é definido pelas **Regras
 para Registros de Evolução de Projetos**
 ([R.R.E.P.](https://github.com/moacirsouza/rrep)).
 
-### Histórico
+## Histórico
 
 1. HTML
 
